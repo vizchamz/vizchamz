@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there I'm Visal👋
 
-<!--
-**vizchamz/vizchamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying BEng(Hons) Software Engineering at Informatics Institute of Technology (IIT), Sri Lanka.
+- 🌱 I’m currently learning Java, JavaFX, Javascript & PHP.
+- 📫 How to reach me: visalchamuditha@gmail.com
+- ⚡  Technologies I Like to learn & Currently learning: 
+     Front-end development using HTML ,CSS, Javascript, Bootstrap, Anugular JS & React JS.
+     Back-end development using PHP, Django & Laravel.
+     Database Management Systems - MYSQL.
+     Adobe Photoshop, Illustrator, Premiere Pro, After Effects & Dreamweaver.
+     C#, Flutter, Kotlin, Node JS, MongoDB & Stacks like LEMP or LAMP.
+- ⭐ Leave a star if you like my Repositories.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
