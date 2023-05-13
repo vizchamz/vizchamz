@@ -1,14 +1,12 @@
 Hey there, I'm Visal! 👋
 
 ⚡ Technologies:
-Frontend: CSS, HTML5, JavaScript, ReactJS, TypeScript, VueJS, Ajax, Bootstrap, etc. 🎨💻
-Backend: Python, PHP, NodeJS, ExpressJS, Laravel, Middleware, etc. 🐍🔧
-Database: MySQL, MSSQL, OracleDB, MongoDB, SQLite, Clusters, etc. 🗃️💾
-DevOps: CI/CD pipelines, Automation Scripts, Docker, Gitlab Registries, Jenkins, etc. 🚀🔧
-Other: Linux, VMs, Sequelize, Mongoose, etc. 🐧💻
-Extra: Adobe Photoshop, Illustrator, Premiere Pro, After Effects & Dreamweaver, etc. 🎨🎥✏️🖌️
-
-Let's create something amazing together! 💪😄
+- Frontend: CSS, HTML5, JavaScript, ReactJS, TypeScript, VueJS, Ajax, Bootstrap, etc. 🎨💻
+- Backend: Python, PHP, NodeJS, ExpressJS, Laravel, Middleware, etc. 🐍🔧
+- Database: MySQL, MSSQL, OracleDB, MongoDB, SQLite, Clusters, etc. 🗃️💾
+- DevOps: CI/CD pipelines, Automation Scripts, Docker, Gitlab Registries, Jenkins, etc. 🚀🔧
+- Other: Linux, VMs, Sequelize, Mongoose, etc. 🐧💻
+- Extra: Adobe Photoshop, Illustrator, Premiere Pro, After Effects & Dreamweaver, etc. 🎨🎥✏️🖌️
 
 I'm a passionate software engineer with expertise in both frontend and backend development. On the frontend side, I love crafting beautiful user interfaces using CSS, HTML5, and JavaScript. With my knowledge of frameworks like ReactJS, TypeScript, and VueJS, I bring interactive and dynamic elements to life. 🌈💻
 
