@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About me
-Experienced Full-Stack Engineer with a taste for scalable backend systems and polished user experiences. I enjoy turning ambiguous problems into practical solutions — from prototypes to production — and I’m comfortable across the stack: frontend, backend, and the cloud/DevOps surface in between.
+Experienced Software Engineer with a taste for scalable backend systems and polished user experiences. I enjoy turning ambiguous problems into practical solutions — from prototypes to production — and I’m comfortable across the stack: frontend, backend, and the cloud/DevOps surface in between.
 
 ---
 
